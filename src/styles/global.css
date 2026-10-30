@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html {
+	min-width: 320px;
+}
+
+body {
+	min-width: 320px;
+	margin: 0;
+	font-family: system-ui, sans-serif;
+}
